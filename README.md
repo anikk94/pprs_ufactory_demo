@@ -1,0 +1,1 @@
+# ufactory + pickit pick and place demo of standard bin picking throughput measurement test
